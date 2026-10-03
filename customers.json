@@ -1,0 +1,12 @@
+[
+  {
+    "customerId": "C001",
+    "name": "dio",
+    "drivingLicense": "wed",
+    "contactNumber": "123",
+    "email": "123",
+    "password": "123",
+    "totalSpent": 0.0,
+    "manualTierOverride": "Gold"
+  }
+]
